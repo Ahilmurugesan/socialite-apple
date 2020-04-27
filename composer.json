@@ -1,0 +1,31 @@
+{
+    "name": "ahilmurugesan/socialite-apple",
+    "description": "Apple Socialite Login Provider with in-built Client Secret Generator and Manager",
+    "type": "library",
+    "require": {
+        "laravel/socialite": "^4.0",
+        "lcobucci/jwt": "^3.3",
+        "socialiteproviders/manager": "^3.0",
+        "firebase/php-jwt": "^5.2"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ahilan",
+            "email": "ahilmurugesan@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Ahilan\\Apple\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Ahilan\\Apple\\AppleServiceProvider"
+            ]
+        }
+    }
+}
