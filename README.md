@@ -1,3 +1,8 @@
+<h1>Notice</h1>
+<p>
+We are Happy to announce that SocialiteProvider - Apple package is officialy approved and added to Laravel Socialite. You can find them here 
+<a href="https://packagist.org/packages/socialiteproviders/apple">https://packagist.org/packages/socialiteproviders/apple</a>
+</p>
 <h1 align="center">Socialite - Apple</h1>
 <p align="center">
 <a href="https://packagist.org/packages/ahilmurugesan/socialite-apple"><img src="https://poser.pugx.org/ahilmurugesan/socialite-apple/d/total.svg" alt="Total Downloads"></a>
